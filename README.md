@@ -1,8 +1,9 @@
  <img src="https://komarev.com/ghpvc/?username=niku-singh&label=Profile%20views&color=0e75b6&style=flat" alt="niku-singh" />
  
-### Hi there 👋, I'm Niku Singh
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Niku Singh
 #### Sophormore at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
 ---
+- 👨🏻‍💻 Pronouns: He/Him
 - 🔭 I am currently exploring React
 - 📽️ Some of my projects are [Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
 <!-- - 🖥️ Check my open source contributions [here]() -->
