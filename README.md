@@ -5,18 +5,18 @@
 ---
 - 👨🏻‍💻 Pronouns: He/Him
 - 🔭 I am currently exploring React
-- 📽️ Some of my projects are [Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
-<!-- - 🖥️ Check my open source contributions [here]() -->
+- 📽️ Some of my projects are [Music Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
+- 🖥️ Check my open source contributions [here](https://github.com/NIKU-SINGH/My-Open-Source-Contri)
 - 📖 Checkout my [Insta page]() where I post about startup stories,tech and Open source.
 - ☕ Hobbies: Like to read books, watch football and watch movies
 - ⚡ Fun fact: My life is like a footbal match and I am the football 🤣
 ---
 ### Connect with me
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niku_singh_" height="30" width="40" />](https://twitter.com/niku_singh_)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_niku__singh_" height="30" width="40" />](https://instagram.com/_niku__singh_)
-<!-- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkeidn.svg" height="30" width="40" />]() -->
----
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/niku_singh_)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/_niku__singh_)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](www.linkedin.com/in/niku-singh)
+
 ### Languages and tools that I use
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,13 +28,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 ---
-<!-- ### Achievements
-- Gitlab [Q3 Hackathon winner](https://forum.gitlab.com/t/announcing-gitlabs-q3-2021-hackathon-winners/60356) -->
+### Achievements
+- Winner of Gitlab [Q3 Hackathon](https://forum.gitlab.com/t/announcing-gitlabs-q3-2021-hackathon-winners/60356)
 ---
 ### Profile Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niku-singh&show&layout=compact&theme=radical" alt="niku-singh" /></p>
+<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=niku-singh&show_icons=true&theme=radical" alt="niku-singh" />
+<img height= "150px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niku-singh&theme=radical" alt="niku-singh" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niku-singh&show_icons=true&theme=radical" alt="niku-singh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niku-singh&theme=radical" alt="niku-singh" /></p>
