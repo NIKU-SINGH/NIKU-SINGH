@@ -1,6 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=niku-singh&label=Profile%20views&color=0e75b6&style=flat" alt="niku-singh" />
  
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Niku Singh
+### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Niku Singh
 #### Sophormore at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
 ---
 - 👨🏻‍💻 Pronouns: He/Him
@@ -16,6 +16,12 @@
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/niku_singh_)
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/_niku__singh_)
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](www.linkedin.com/in/niku-singh)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devrant.svg" />](https://devrant.com/users/Nikus)
+
+### Read My Blogs Here
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@nikusingh)
+<!-- [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/DEVCommunity.svg" />](https://dev.to/nikusingh)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" />](https://hashnode.com/@Sukin) -->
 
 ### Languages and tools that I use
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
