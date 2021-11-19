@@ -15,7 +15,7 @@
 
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/niku_singh_)
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://instagram.com/_niku__singh_)
-[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](www.linkedin.com/in/niku-singh)
+[<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/niku-singh)
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devrant.svg" />](https://devrant.com/users/Nikus)
 
 ### Read My Blogs Here
