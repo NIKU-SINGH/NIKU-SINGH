@@ -5,7 +5,7 @@
 ---
 - 👨🏻‍💻 Pronouns: He/Him
 - 🔭 I am currently exploring React
-- 📽️ Some of my projects are [Inshorts Clone ](https://github.com/NIKU-SINGH/Inshorts-clone)[Music Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
+- 📽️ Some of my projects are [Inshorts Clone ](https://inshorts-app-clone.herokuapp.com/)[Music Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
 - 🖥️ Check my open source contributions [here](https://github.com/NIKU-SINGH/My-Open-Source-Contri)
 - 📖 Checkout my [Insta page](https://instagram.com/__know_more_) where I post about startup stories,tech and Open source.
 - ☕ Hobbies: Like to read books, watch football and watch movies
