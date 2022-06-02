@@ -1,6 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=niku-singh&label=Profile%20views&color=0e75b6&style=flat" alt="niku-singh" />
  
-### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Niku Singh
+### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Niku Singh
 #### Sophormore at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
 ---
 - 👨🏻‍💻 Pronouns: He/Him
