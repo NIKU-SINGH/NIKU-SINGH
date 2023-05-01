@@ -1,15 +1,21 @@
  <img src="https://komarev.com/ghpvc/?username=niku-singh&label=Profile%20views&color=0e75b6&style=flat" alt="niku-singh" />
  
+ ![](https://github.com/NIKU-SINGH/NIKU-SINGH/blob/main/banner.png)
+
 ### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Niku Singh
-#### Sophormore at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
+#### Prefinal year Student at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
 ---
 - 👨🏻‍💻 Pronouns: He/Him
-- 🔭 I am currently exploring React
-- 📽️ Some of my projects are [Inshorts Clone ](https://app-inshorts-clone.herokuapp.com/)[Music Player](https://niku-singh.github.io/Music-Player/),[QT calculator](https://github.com/NIKU-SINGH/Simple-Calculator-Qt-C-),[Foodie](https://niku-singh.github.io/Foodie-Restaurant/)
+- 🔭 I am currently exploring Bitcoin dev Space
+- 📽️ Some of my projects are 
+    - [SAAVE Finance ](https://github.com/SAAVE-Finance)
+    - [HawkEye](https://github.com/NIKU-SINGH/Hawkeye)
+    - [Homey](https://github.com/NIKU-SINGH/rentals-frontend)
+    - [Go Auth System](https://github.com/NIKU-SINGH/auth-system)
+    - [Readers Hub](https://github.com/NIKU-SINGH/readers-hub-frontend)
 - 🖥️ Check my open source contributions [here](https://github.com/NIKU-SINGH/My-Open-Source-Contri)
-- 📖 Checkout my [Insta page](https://instagram.com/__know_more_) where I post about startup stories,tech and Open source.
 - ☕ Hobbies: Like to read books, watch football and watch movies
-- ⚡ Fun fact: My life is like a footbal match and I am the football 🤣
+- ⚡ Fun fact: The only funny thing about my life is my situation
 ---
 ### Connect with me
 
@@ -24,17 +30,32 @@
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" />](https://hashnode.com/@Sukin) -->
 
 ### Languages and tools that I use
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp,rust,go" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,express,tailwind,nodejs,actix,bootstrap,materialui" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,netlify" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,firebase,vercel,mysql,mongo,postgres,linux" />
+  </a>
+</p>
+
 ---
 ### Achievements
+- [Mentor](https://mentorship.lfx.linuxfoundation.org/project/6904ed62-2022-4451-bbc7-6bc0f940586f) at LFX'23 Hyperledger Foundation
+<!-- - Runner up of [MIT Bitcoin Expo Forkscanner Track](https://devpost.com/software/hawkeye-28azjf) -->
+- Winner of [ETHforAll QuickNode track](https://devfolio.co/projects/saave-61c5)
 - Winner of Gitlab [Q3 Hackathon](https://forum.gitlab.com/t/announcing-gitlabs-q3-2021-hackathon-winners/60356)
 ---
 ### Profile Stats
