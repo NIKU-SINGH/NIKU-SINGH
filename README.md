@@ -1,6 +1,6 @@
  <img src="https://komarev.com/ghpvc/?username=niku-singh&label=Profile%20views&color=0e75b6&style=flat" alt="niku-singh" />
  
- ![](https://github.com/NIKU-SINGH/NIKU-SINGH/blob/main/banner.png)
+ ![](https://github.com/NIKU-SINGH/NIKU-SINGH/blob/main/assets/banner.png)
 
 ### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Niku Singh
 #### Prefinal year Student at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
@@ -37,7 +37,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,express,tailwind,nodejs,actix,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=next,react,express,tailwind,nodejs,actix,bootstrap,materialui,graphql" />
   </a>
 </p>
 <p align="center">
