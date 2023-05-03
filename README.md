@@ -66,11 +66,16 @@
 - ###  **[Mentor](https://mentorship.lfx.linuxfoundation.org/project/6904ed62-2022-4451-bbc7-6bc0f940586f) at LFX'23 Hyperledger Foundation**
 
   - As a mentor for LFX'23 Hyperledger Mentorship Programme, my mentee and I are updating Hyperledger's onboarding documentation and start here guide to provide new community members with a quicker and deeper understanding of blockchain projects. Our goal is to create a unified, easy-to-access resource, including a searchable dashboard for community events.
+
+- ### **LFX'22 Mentee Hyperledger Foundation**
+  -  Designed website mockups for the Start-here-Hyperledger site, which aims at
+improving user engagement and making it easier to onboard new contributors.
+  - Worked on the latest technologies for building the UI of the site.
 <!-- - Runner up of [MIT Bitcoin Expo Forkscanner Track](https://devpost.com/software/hawkeye-28azjf) -->
-- ###  Winner of [ETHforAll QuickNode track](https://devfolio.co/projects/saave-61c5)
+- ###  **Winner of [ETHforAll QuickNode track](https://devfolio.co/projects/saave-61c5)**
   - SAAVE is a DeFi investing app that offers a simple UI, one-click solutions for various investment strategies, and a 3.75% APY on stablecoins. It also provides educational content and rewards users with NFTs for learning.
 
-- ###  Winner of Gitlab [Q3 Hackathon](https://forum.gitlab.com/t/announcing-gitlabs-q3-2021-hackathon-winners/60356)
+- ###  **Winner of Gitlab [Q3 Hackathon](https://forum.gitlab.com/t/announcing-gitlabs-q3-2021-hackathon-winners/60356)**
   - Gitlab conducts a quarterly Hackathon to introduce new contributors to open-source software and help them start their journey with Gitlab project. I was a winner of the Q3 Gitlab Hackathon and have since then been contributing to their codebase regularly.
 
 ---
