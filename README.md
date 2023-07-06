@@ -34,11 +34,11 @@
 [<img height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@nikusingh)
 
 ### ✍🏻GSOC 2023
-[🚀 From Muggle to GSoC’23 Wizard: Unlocking the Chamber of Selectivity](https://medium.com/@nikusingh/from-muggle-to-gsoc23-wizard-unlocking-the-chamber-of-selectivity-gitlab-9a2f66ed08b5?source=friends_link&sk=7c22bc8028e90a0d41da34c65261b8d1) 
-[👨🏻‍🏭Embarking on the GSoC Journey: Week 1–2 Coding Period Commences](https://medium.com/@nikusingh/embarking-on-the-gsoc-journey-week-1-2-coding-period-commences-2eed20eb183b?source=friends_link&sk=2982b925d3e2f1c8beb22b786992fc66)
+1. [🚀 From Muggle to GSoC’23 Wizard: Unlocking the Chamber of Selectivity](https://medium.com/@nikusingh/from-muggle-to-gsoc23-wizard-unlocking-the-chamber-of-selectivity-gitlab-9a2f66ed08b5?source=friends_link&sk=7c22bc8028e90a0d41da34c65261b8d1)
+2. [👨🏻‍🏭Embarking on the GSoC Journey: Week 1–2 Coding Period Commences](https://medium.com/@nikusingh/embarking-on-the-gsoc-journey-week-1-2-coding-period-commences-2eed20eb183b?source=friends_link&sk=2982b925d3e2f1c8beb22b786992fc66)
 
 ### Linux Foundation Mentorship'22 @Hyperledger Foundation
-[🥁LFX’22 Mentorship Experience with Hyperledger Foundation](https://medium.com/@nikusingh/lfx22-mentorship-experience-with-hyperledger-foundation-233369f7d682?source=friends_link&sk=0b11f5ce1a0466886ab8729a0a6d514f)
+- [🥁LFX’22 Mentorship Experience with Hyperledger Foundation](https://medium.com/@nikusingh/lfx22-mentorship-experience-with-hyperledger-foundation-233369f7d682?source=friends_link&sk=0b11f5ce1a0466886ab8729a0a6d514f)
 
 
 
