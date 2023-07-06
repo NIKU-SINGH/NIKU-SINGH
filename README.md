@@ -4,7 +4,7 @@
 
 ### Hey,there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Niku Singh
 
-#### Prefinal year Student at NIT Jalandhar,Opensource Contributor,Blockchain enthusiast
+#### Blockchain enthusiast turned web wizard, coding history, economics, and Bitcoin into webpages, while predicting football scores like a psychological economist!
 
 ---
 
