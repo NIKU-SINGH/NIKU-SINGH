@@ -9,7 +9,7 @@
 ---
 
 - 👨🏻‍💻 Pronouns: He/Him
-- 🔭 I am currently exploring Bitcoin dev Space
+- 🔭 I am currently exploring Bitcoin dev Space, Backend dev
 - 📽️ Some of my projects are
   - [SAAVE Finance ](https://github.com/SAAVE-Finance)
   - [HawkEye](https://github.com/NIKU-SINGH/Hawkeye)
