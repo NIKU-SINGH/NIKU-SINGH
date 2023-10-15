@@ -42,8 +42,8 @@ Beyond the screen, I'm an avid reader, a movie buff, and a friendly conversation
 
   - Stayed updated with the latest technologies to ensure the site's UI was built using the most advanced tools and techniques available.
   - [Figma Link](https://www.figma.com/file/Z1DSassHZpRfuSoKeOy2cr/Hyperledger-Website?type=design&node-id=285-405&mode=design&t=BiAby5LtY3AXbJMK-0)
-  - [Github Link](https://github.com/hyperledger-tooling/getting-started)
-  - [Deployed link](https://getting-started-flame.vercel.app/)
+  , [Github Link](https://github.com/hyperledger-tooling/getting-started)
+  , [Deployed link](https://getting-started-flame.vercel.app/)
 
 ## 🚀 Personal Projects
 
