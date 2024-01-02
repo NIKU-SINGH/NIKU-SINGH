@@ -10,7 +10,7 @@ Beyond the screen, I'm an avid reader, a movie buff, and a friendly conversation
 
 ---
 
-- 👨🏻‍💻 Pronouns: He/Him
+- 👨🏻‍💻 Pronouns: He/Him.
 - 🔭 Currently exploring Backend space.
 - ☕ Hobbies: Contributing to Open Source, Making Side projects, Like to read books and watch movies.
 - ⚡ Fun fact: The only funny thing about my life is my situation
