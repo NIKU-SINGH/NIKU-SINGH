@@ -18,4 +18,4 @@ Outside of coding, I love traveling, exploring new places, and watching lots of 
 
 Always happy to connect with people building interesting things, especially around open source and developer tooling.
 
-[LinkedIn](https://www.linkedin.com/in/niku-singh/) · [GitHub](https://github.com/NIKU-SINGH) · [Email](mailto:nikusingh319@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/niku-singh/) · [GitHub](https://github.com/NIKU-SINGH) · [GitLab](https://gitlab.com/NIKU-SINGH) · [Twitter](https://x.com/Niku_Singh_) · [Blog](https://blog.nikkusingh.com/) · [Email](mailto:nikusingh319@gmail.com)
